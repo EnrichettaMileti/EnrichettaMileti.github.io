@@ -8,11 +8,11 @@ version: 2
 # Personal info
 name: Enrichetta Mileti
 title: PhD Student
-email: brett.h@email.co.uk
+email: mileti.enrichetta@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: facespics
