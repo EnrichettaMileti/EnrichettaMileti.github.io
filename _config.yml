@@ -8,21 +8,21 @@ version: 2
 # Personal info
 name: Enrichetta Mileti
 title: PhD Student
-email: mileti.enrichetta@gmail.com
-website: www.github.com/sproogen/resume-theme
+email: enrichetta.mileti@ki.se
+website: https://staff.ki.se/people/enrmil
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
+twitter_username: EnrichettaM
 github_username:  EnrichettaMileti
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-#instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: ketta87
+linkedin_username: enrichetta-mileti-98013673
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
