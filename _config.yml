@@ -49,8 +49,10 @@ additional_links:
 about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi there, my name is Enrichetta. I'm a bioinformatician, studying ...
-  In 2012 I got my bachelor degree in Biology at the [University of L'Aquila](https://www.univq.it) and later I moved to [University of Bologna](https://www.unibo.it) to study bioinformatics where I acquired a master's degree in July 2014.
-  
+  In 2012 I got my bachelor degree in Biology at the [University of L'Aquila](https://www.univq.it).
+  In the meanwhile, the importance of Bioinformatics in biological analysis has become more and more important and my curiosity in use it as well.
+  This prompted me to join the International Master in Bioinformatics in 2013 at [University of Bologna](https://www.unibo.it) and I acquired a master's degree in July 2014.
+  In October 2014, I joined the [Carsten Daub group](https://www.daublab.org) as Scientific Trainee and starting from March 2015 I am PhD student.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
