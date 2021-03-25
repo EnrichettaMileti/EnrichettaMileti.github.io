@@ -77,9 +77,9 @@ content:
     layout: list
     content:
       - layout: left
-        qualification: Research assistant
-        name: Department of Bioscience and nutrition, Karolinska Institutet
-        dates: October 2014 - March 2015
+        title: Research assistant
+        sub_title: Department of Bioscience and nutrition, Karolinska Institutet
+        caption: October 2014 - March 2015
         quote:
         description: | # this will include new lines to allow paragraphs
 
