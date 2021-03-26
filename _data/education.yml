@@ -1,14 +1,38 @@
+# Education Template
 - layout: left
-  name: University of Bologna
-  dates: 2013- 2014
+  name: Karolinska Institutet
+  dates: 2015 - Prenset
+  qualification: Ph.D. in Medicine
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    **Thesis**
+
+
+    **Advisor**
+    Carsten O. Daub
+
+    *Secondment at *
+
+- layout: left
+  name: Bologna University & Stockholm University
+  dates: 2013 - 2014
   qualification: M.Sc. in Bioinformatics
   quote:
   description: | # this will include new lines to allow paragraphs
     **Thesis**
     Study of conserved and non-conserved intrinsically disordered proteins
+
     **Advisors**
     Arne Elofsson
 
-- name: University of l'Aquila
+- layout: left
+  name: University of l'Aquila
   dates: 2006 - 2012
-  description: |
+  qualification: B.Sc. in Biology
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    **Thesis**
+
+
+    **Advisor**
+    Francesco Giansanti
