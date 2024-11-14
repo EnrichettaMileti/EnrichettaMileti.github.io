@@ -5,7 +5,7 @@
   qualification: Ph.D. in Medicine
   quote:
   description: | # this will include new lines to allow paragraphs
-    **Thesis**
+    **Thesis: **
     Gene regulation of acute insulin response in human adipose tissue in obesity and after weight-loss |
     The incidence and prevalence of obesity and type 2 diabetes is reaching epidemic proportions worldwide and insulin resistance, the pathophysiological link between the two conditions is
     consequently the focus of intense research. Although it is well-established that insulin resistance is associated with obesity, up to 1/3 of the obese subjects display insulin
@@ -18,7 +18,13 @@
     **Advisor**
     Carsten O. Daub
 
-    *Secondment at *
+    *Secondment at * |
+    Research visit at Max Plank Institute, Muenster, Germany |
+    dates: February 2018
+    Research visit at BRIC , University of Copenhagen, Denmark |
+    dates: January 2018
+    Research visit at Division of Genomic technologies, RIKEN Yokohama, Japan |
+    dates: October- November 2015
     
 
 - layout: left
@@ -28,10 +34,15 @@
   quote:
   description: | # this will include new lines to allow paragraphs
     **Thesis**
-    Study of conserved and non-conserved intrinsically disordered proteins
+    Study of conserved and non-conserved intrinsically disordered proteins |
 
     **Advisors**
     Arne Elofsson
+
+    *Secondment at * |
+    Erasmus Fellow, Stockholm University, Stockholm, Sweden |
+    dates: January - June 2014 
+
 
 - layout: left
   name: University of l'Aquila
