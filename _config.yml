@@ -43,7 +43,7 @@ about_content: |
 # educaton_title: Education #(Use this to override about education section title)
 
 # Publications Section
-#publications_title: Publications
+#publications_title: Publications #(Use this to override about education section title)
 
 # More Section
 more_title: When I'm Not Programming
