@@ -1,8 +1,11 @@
-- company: Copenhagen University
+# Experience template
+- layout: left
+  company: Copenhagen University, DK
   dates: August 2021 - Present
   job_title: Postdoctoral Research
-  description: - Investigated chromatin conformation in aggressive brain tumors and structural variants affecting the 3D genome.
-   - Applied cutting-edge bioinformatics methodologies to genomic data analysis.
+  description: | # this will include new lines to allow paragraphs
+  - Investigated chromatin conformation in aggressive brain tumors and structural variants affecting the 3D genome.
+  - Applied cutting-edge bioinformatics methodologies to genomic data analysis.
 
 
 - layout: right
