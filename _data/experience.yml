@@ -1,7 +1,8 @@
-- company: NatWest
-  dates: August 2017 - Present
-  job_title: Software Engineer
-  description: |
+- company: Copenhagen University
+  dates: August 2021 - Present
+  job_title: Postdoctoral Research
+  description: - Investigated chromatin conformation in aggressive brain tumors and structural variants affecting the 3D genome.
+  - Applied cutting-edge bioinformatics methodologies to genomic data analysis.
 
 
 - layout: right
