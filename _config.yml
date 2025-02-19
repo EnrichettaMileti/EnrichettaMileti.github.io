@@ -1,59 +1,38 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/photo.jpg
+#favicon: images/favicon.ico
 
-# Content configuration version
-version: 2
+#version: 1
 
 # Personal info
 name: Enrichetta Mileti
-title: ##
+title: Postdoc Researcher
 email: enrichetta.mileti@bric.ku.dk
-#website: www.github.com/sproogen/resume-theme
-
-# Dark Mode (true/false/never)
-darkmode: false
+website: 
+adress: Copenhagen, Denmark
 
 # Social links
-# twitter_username: facespics
-github_username:  enrichettaM
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+twitter_username: EnrichettaM
+github_username:  EnrichettaMileti
+# dribbble_username:
+# facebook_username:
+# flickr_username:
 #instagram_username: jameswgrant
-linkedin_username: enrichetta-mileti-phd-98013673
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+linkedin_username: enrichetta-mileti-98013673
+# pinterest_username:
+# youtube_username:
+# googleplus_username:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_profile_image: images/photo.jpg
+about_content: |
   Hi there, my name is Enrichetta. I'm a bioinformatician, studying ...
   In 2012 I got my bachelor degree in Biology at the [University of L'Aquila](https://www.univq.it).
   In the meanwhile, the importance of Bioinformatics in biological analysis has become more and more important and my curiosity in use it as well.
   This prompted me to join the International Master in Bioinformatics in 2013 at [University of Bologna](https://www.unibo.it) and I acquired a master's degree in July 2014.
   In October 2014, I joined the [Carsten Daub group](https://www.daublab.org) as Scientific Trainee and starting from March 2015 I started my PhD journey.
-
+  
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -79,4 +58,3 @@ remote_theme: sproogen/resume-theme
 
 # sass:
 #   style: compressed
-
