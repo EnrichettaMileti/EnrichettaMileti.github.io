@@ -1,0 +1,27 @@
+# Project template
+- title: "Loss of G protein pathway suppressor 2 in human adipocytes triggers lipid remodeling by upregulating ATP binding cassette subfamily G member 1."
+  year: 2020
+  journal: Molecular metabolism, 42, 82-93.
+  authors: Barilla <i>et al</i>.
+  doi: 10.1016/j.molmet.2020.101066
+
+- title: "Long-Term Improvement in Aortic Pulse Wave Velocity After Weight Loss Can Be Predicted by White Adipose Tissue Factors."
+  year: 2017
+  journal: American Journal of Hypertension, 31, 450–457.
+  authors: Bäckdahl <i>et al</i>.
+  doi: 10.1093/ajh/hpx201
+  break: true
+
+- title: "Acute doses of caffeine shift nervous system cell expression profiles toward promotion of neuronal projection growth."
+  year: 2017
+  journal: Scientific Reports, 7, 1-10.
+  authors: Yu <i>et al</i>.
+  doi: 10.1038/s41598-017-11574-6
+  break: true
+
+- title: "The adipose transcriptional response to insulin is determined by obesity, not insulin sensitivity."
+  year: 2016
+  journal: Cell Reports, 16, 2317-2326.
+  authors: Rydén <i>et al</i>.
+  doi: 10.1016/j.celrep.2016.07.070
+  break: true
